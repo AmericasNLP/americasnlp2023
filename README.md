@@ -1,5 +1,7 @@
 # AmericasNLP 2023 Shared Task on Machine Translation into Indigenous Languages
 
+**Update 5/14/2023**: The results for the Shared Task can now be found [here](https://docs.google.com/spreadsheets/d/1ORYbRsEsDBqDO0OiSdKDAIHUpARpf0qX9RrRtXdCMsY/edit?usp=sharing). Thanks to all the teams for their submissions! 
+
 **Update 4/21/2023**: The surprise language -- Chatino -- has been released! It is now available under `data/chatino-spanish`. In this directory, you can find the train and dev files, along with another file, `ctp-eng.tsv` which contains parallel data between another variant of Chatino and English. We hope that this additional data, although it is from a different domain, will be helpful in improving the Chatino--Spanish translations. 
 ## Shared Task
 
